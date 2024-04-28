@@ -1,0 +1,3 @@
+[submodule "Thirdparty/gobject"]
+	path = Thirdparty/gobject
+	url = https://gitee.com/qinyinan/gobject_cpp11.git
